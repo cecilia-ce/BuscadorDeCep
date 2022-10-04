@@ -1,3 +1,10 @@
+Projeto realizado para estudo do React.js consumindo API com axios. Trata-se de um buscador de CEP simples, onde o usuário poderá digitar um cep e o sistema retornará dados relacionados ao referido CEP utilizando a webservice ViaCep. 
+
+<img width="860" alt="buscCEP" src="https://user-images.githubusercontent.com/90211249/193926896-39138a1e-038a-4b52-bf97-3dac907823b7.png">
+<img width="860" alt="buscCEPinfo" src="https://user-images.githubusercontent.com/90211249/193926929-e185baca-529f-4d1c-a259-de5d7c9083e3.png">
+
+
+
 ## Running React on Repl.it
 
 [React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
